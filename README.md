@@ -1,2 +1,2 @@
 # simple-react-app
-Aula do Rocketseat GoStack #09 - ReactJS
+Aula do módulo 4 da Rocketseat GoStack #09 - ReactJS
